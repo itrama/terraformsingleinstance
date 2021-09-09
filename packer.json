@@ -27,6 +27,8 @@
       "type": "shell",
       "inline": [
         "sleep 30",
+         "cd /var/lib/apt/lists"
+         "rm lock"
         "sudo apt update -y",
         "sudo apt install nginx -y",
         "sudo apt install git -y",
