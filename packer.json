@@ -5,7 +5,7 @@
       "aws_secret_key": "",
       "region": "",
       "source_ami":"",
-      "instance_type":"",
+      "instance_type":"",,
       "vpc_id": "",
       "subnet_id": ""
     },
